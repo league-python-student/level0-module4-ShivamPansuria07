@@ -20,7 +20,7 @@ from tkinter import messagebox, simpledialog, Tk
 #       name = simpledialog.askstring(None, prompt="What is your name?")
 #
 # The while loop above keeps showing a pop-up message box until the user types
-# something in the text field. A while loop can potentially go on forever if
+# something in the text field. A while loop can potentially go son forever if
 # the condition is always True. A 'break' statement is used to exit the while
 # loop immediately. The code below does the same thing except uses a break
 # statement instead:

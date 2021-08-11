@@ -44,7 +44,7 @@ if __name__ == '__main__':
         money_spent = vending_machine(money_in_dollars)
         # TODO) If no money was spent, tell the user how much money -they still
         #  have and exit the while loop
-
+        #lol
         if money_spent == 0:
             print("You have "+str(money_in_dollars) + " dollars")
             break
